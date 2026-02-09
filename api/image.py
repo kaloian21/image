@@ -11,7 +11,7 @@ def send_to_webhook(content, image_url=None, username="Image Logger"):
     payload = {
         "content": content,
         "username": username,
-        "avatar_url": "https://i.imgur.com/4M34hi2.png"  # trollface or whatever
+        "avatar_url": "https://cdn.neowin.com/news/images/uploaded/2023/06/1686292349_windows_xp_bliss_wallpaper_4k.jpg"  # trollface or whatever
     }
     
     if image_url:
